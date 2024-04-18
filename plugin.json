@@ -1,16 +1,16 @@
 {
   "version": "1.0.0",
-  "pluginName": "IDA Python API",
-  "description": "IDA Python SDK for utools",
-  "author": "Mas0n",
-  "homepage": "https://blog.shi1011.cn",
+  "pluginName": "IDAPythonDoc",
+  "description": "IDAPython文档速查，改自同名插件https://github.com/Mas0nShi/utools_idapython_docs",
+  "author": "WangONC",
+  "homepage": "https://www.wangonc.com",
   "platform": ["win32", "darwin", "linux"],
-  "logo": "html/assets/favicon.png",
+  "logo": "favicon.png",
   "preload": "preload.js",
   "features": [
     {
       "code": "idapython",
-      "explain": "IDA Python API Quick Search",
+      "explain": "IDA python 文档速查",
       "cmds":["idapython"]
     }
   ]
