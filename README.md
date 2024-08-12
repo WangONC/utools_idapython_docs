@@ -1,4 +1,4 @@
-# utools_idapython_docs
+utools_idapython_docs
 
 IDA Python SDK Search for utools
 
@@ -22,6 +22,10 @@ you can search `IDAPythonDoc` in uTool official store.
 - quick search in globals(variables/function/...)
 - search by module
 - display a brief description and the module of the current variables/function
+
+## todo
+
+- [ ] update to 9.0
 
 ## build
 
